@@ -1,0 +1,18 @@
+{
+  "name": "multi-chain-id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^10.9.1",
+    "@polkadot/keyring": "^12.4.1",
+    "@polkadot/util": "^12.4.1",
+    "@polkadot/util-crypto": "^12.4.1"
+  }
+}
