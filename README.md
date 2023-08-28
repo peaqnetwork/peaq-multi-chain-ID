@@ -5,4 +5,6 @@ In essence, users wield a single **SS58 Substrate-based** address on Peaq, ingen
 
 Through this ingenious approach, users effortlessly traverse varied platforms, fostering an interconnected and efficient decentralized landscape. This breakthrough catapults us toward a future where users navigate various blockchain networks with unprecedented ease, reinforcing the vision of a seamlessly integrated and user-centric blockchain universe.
 
+$ node main.js  
+
 <img width="500" alt="image" src="https://github.com/peaqnetwork/peaq-multi-chain-ID/assets/101552881/9eadb020-39d7-4ee4-abbc-33e7529652ec">
